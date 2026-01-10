@@ -19,8 +19,8 @@
 - [Azure Fundamentals ラーニングパス](https://learn.microsoft.com/ja-jp/training/courses/az-900t00)
 
 ### Udemy
-- [Microsoft Azure AZ-900 Exam Prep](https://www.udemy.com/course/microsoft-azure-az900-exam/?couponCode=CP250102JP)
-- [Microsoft Azure AZ-900 Video Course](https://www.udemy.com/course/microsoft-azure-az900-video/?couponCode=CP250102JP)
+- [Microsoft Azure AZ-900 Exam Prep](https://www.udemy.com/course/microsoft-azure-az900-exam)
+- [Microsoft Azure AZ-900 Video Course](https://www.udemy.com/course/microsoft-azure-az900-video)
 
 ---
 

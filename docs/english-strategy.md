@@ -15,5 +15,5 @@
 ---
 
 ## GitHub運用との対応
-- 文法学習 → `english + heavy`（余力がある場合）
+- 文法学習 → `english + light`にして一回の量を少なくする
 - シャドーイング・音読 → `english + light`

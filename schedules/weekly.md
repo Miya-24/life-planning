@@ -1,4 +1,4 @@
-# Weekly Template
+# Weekly Schedule
 
 ## 🎯 週の重点
 

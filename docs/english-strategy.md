@@ -25,8 +25,8 @@
 
 ### シャドーイング
 - 教材例：
-  - Easy English
-  - BBC 6 Minute English
+  - [Easy English](https://www.youtube.com/@easyenglish551)
+  - [BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
 - 英語の音・リズムに口を慣らすことが目的
 
 #### 実施ルール（重要）

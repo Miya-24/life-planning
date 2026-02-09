@@ -1,7 +1,7 @@
 ---
 name: "🧘 Day 4（機能改善・ケア）"
 about: 店舗ジムまたは自宅での股関節・肩甲骨ケア
-title: "Day 4: ケア"
+title: "ジム Day 4: ケア"
 labels: light
 ---
 
